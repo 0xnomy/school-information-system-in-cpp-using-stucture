@@ -24,8 +24,11 @@ DeleteStudent function to remove a student from the array on the basis of studen
 **The program is menu-driven and follows the below flow:**
 
 The user is presented with a Main Menu when the program starts.
+
 The Main Menu provides options to manage courses and students.
+
 The user can choose to view, add, delete, or sort courses/students.
+
 The program displays the relevant information based on the user's selection.
 
 I will be actively updating these repos with my latest OOP using C++ assignments. Stay tuned for more!
