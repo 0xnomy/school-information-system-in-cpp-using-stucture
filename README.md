@@ -4,19 +4,30 @@ This is a simple command-line program that manages courses and students informat
 
 # Course Management
 Struct Course with members ID, CourseName, teacher, fee, and creditHours.
+
 PrintAll function to display the details of all the courses.
+
 Struct CourseList with members courses (an array of 5 elements).
+
 PrintAll function to display the details of all the courses in the entire array.
+
 AddCourse function to add a new course to the array at any index.
+
 Sort function to sort the entire array of courses in ascending or descending order of their ID's.
+
 DeleteAll function to remove all courses from the array.
 
 # Student Management
 Struct Student with members ID, StdName, and RollNo.
+
 PrintAll function to display the details of all the students.
+
 Struct StudentList with members std (an array of 5 elements).
-PrintAll function to display the details of all the students in the list.
+
+Print function to display the details of the student.
+
 AddStudent function to add a new student to the array on the basis of student ID.
+
 DeleteStudent function to remove a student from the array on the basis of student ID.
 
 # Program Flow
